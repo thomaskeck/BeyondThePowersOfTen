@@ -54,6 +54,16 @@ Die Originalquellen aller Materialen die eine Wiederverwendung und Veränderung 
   * Standardmodel Particle Physics: https://en.wikipedia.org/wiki/Standard_Model#/media/File:Standard_Model_of_Elementary_Particles.svg
   * Voyager Golden Record: https://commons.wikimedia.org/wiki/File:The_Sounds_of_Earth_Record_Cover_-_GPN-2000-001978.jpg
   * Katze: https://commons.wikimedia.org/wiki/File:Katze_weiss.png
+  * Otto Lehmann: https://de.wikipedia.org/wiki/Datei:Otto_Lehmann.jpg
+  * Heinrich Hertz: https://de.wikipedia.org/wiki/Heinrich_Hertz#/media/File:HEINRICH_HERTZ.JPG
+  * Tim Berners-Lee: https://de.wikipedia.org/wiki/Tim_Berners-Lee#/media/File:Sir_Tim_Berners-Lee.jpg
+  * Erster Webserver: https://de.wikipedia.org/wiki/Datei:First_Web_Server.jpg
+  * John Bardeen: https://de.wikipedia.org/wiki/John_Bardeen#/media/File:Bardeen.jpg
+  * Inventors of the Transistor: https://en.wikipedia.org/wiki/John_Bardeen#/media/File:Bardeen_Shockley_Brattain_1948.JPG
+  * Transistor: https://de.wikipedia.org/wiki/John_Bardeen#/media/File:Nachbau_des_ersten_Transistors.jpg
+  * Albert Einstein: https://en.wikipedia.org/wiki/Albert_Einstein#/media/File:Einstein_patentoffice.jpg
+  * GPS: https://upload.wikimedia.org/wikipedia/commons/9/9c/ConstellationGPS.gif
+ 
 
 Die Originalquellen aller Materialien die keine explizite Lizensierung besitzten sind hier zusammengefasst.
 Diese Materialien stammen von verschiedenen wissenschaftlichen Instituten.  
@@ -73,3 +83,4 @@ Diese Materialien stammen von verschiedenen wissenschaftlichen Instituten.
   * Higgs Boson Animation: https://twiki.cern.ch/twiki/pub/CMSPublic/Hig13002TWiki/HZZ4l_animated.gif
   * Dimuon Spektrum: https://twiki.cern.ch/twiki/pub/CMSPublic/PhysicsResultsMUO/dimuonSpectrum_40pb-1.pdf
   * Belle X(3872) Messung: http://images.iop.org/objects/ccr/cern/44/1/4/cernnews6_1-04.jpg
+  * Heinrich Hertz experimental setup: http://ethw.org/File:Fig_2_-_Experimental_setup_by_Heinrich.jpg
