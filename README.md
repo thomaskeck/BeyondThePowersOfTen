@@ -9,7 +9,8 @@ and takes a look beyond the scales shown in the video:
   * larger than 100 million lightyears: Big Bang, Expansion of the Universe, Dark Matter & Energy, General Relativity Gravitational Waves;
   * smaller than the proton: Higgs Boson Discovery, The Standard Model of Particle Physics.
 
-The lecture closes with general remarks on the scientific method and fundamental research.
+The lecture continues with general remarks on the scientific method and fundamental research.
+Finally some famous fundamental researchers (focus on physicists from Karlsruhe or CERN) are introduced and the impact of their work on modern devices like smartphones is discussed.
 
 
 ### German 
@@ -21,7 +22,8 @@ werfen wir einen Blick auf Skalen jenseits des Videos:
   * größer als 100 Millionen Lichtjahre: Der Urknall, Die Expansion des Universums, Dunke Materie & Energy, Allgemeine Relativitätstheorie, Gravitationswellen;
   * kleiner als das Proton: Die Entdeckung des Higgs Bosons, Das Standardmodell der Teilchenphysik.
 
-Die Vorlesung endet mit allgemeinen Bemerkungen zur wissenschaftlichen Methode und Grundlagenforschung.
+Die Vorlesung fährt fort mit allgemeinen Bemerkungen zur wissenschaftlichen Methode und Grundlagenforschung.
+Zuletzt werden einige berühmte Grundlagenforscher (mit Fokus auf Physiker aus Karlsruhe oder vom CERN) vorgestellt, und der Einfluss ihrer Arbeit auf moderne Geräte wie Smartphones erläutert.
 
 
 ## Used material:
