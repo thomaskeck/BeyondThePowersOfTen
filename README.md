@@ -67,7 +67,7 @@ Die Originalquellen aller Materialen die eine Wiederverwendung und Veränderung 
   * GPS: https://upload.wikimedia.org/wikipedia/commons/9/9c/ConstellationGPS.gif
  
 
-Die Originalquellen aller Materialien die keine explizite Lizensierung besitzten sind hier zusammengefasst.
+Die Originalquellen aller Materialien die keine explizite Lizensierung besitzen sind hier zusammengefasst.
 Diese Materialien stammen von verschiedenen wissenschaftlichen Instituten.  
   
   * Powers of ten in german: http://cds.cern.ch/record/1002703
@@ -85,4 +85,10 @@ Diese Materialien stammen von verschiedenen wissenschaftlichen Instituten.
   * Higgs Boson Animation: https://twiki.cern.ch/twiki/pub/CMSPublic/Hig13002TWiki/HZZ4l_animated.gif
   * Dimuon Spektrum: https://twiki.cern.ch/twiki/pub/CMSPublic/PhysicsResultsMUO/dimuonSpectrum_40pb-1.pdf
   * Belle X(3872) Messung: http://images.iop.org/objects/ccr/cern/44/1/4/cernnews6_1-04.jpg
+
+Andere verwendete Bilder die keine explizite Lizensierung besitzen:
   * Heinrich Hertz experimental setup: http://ethw.org/File:Fig_2_-_Experimental_setup_by_Heinrich.jpg
+  * Deep Learning Forscher: http://www.kdnuggets.com/wp-content/uploads/photo.jpg 
+  * CRISPR/Cas Forscher: https://www.welt.de/img/regionales/hessen/mobile153257376/1312509897-ci102l-w1024/urn-newsml-dpa-com-20090101-160313-99-202912-large-4-3-jpg.jpg
+
+
