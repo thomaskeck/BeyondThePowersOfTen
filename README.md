@@ -1,5 +1,8 @@
 # Beyond the powers of ten
 
+You can find a compiled (maybe not the latest) version of the talk here:
+http://ekpwww.ekp.kit.edu/~tkeck/BeyondThePowersOfTen.pdf
+
 ### English
 
 My lecture aimed at German highschool students.
