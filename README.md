@@ -49,6 +49,7 @@ Die Originalquellen aller Materialen die eine Wiederverwendung und Veränderung 
   * Expansion des Universums: https://de.wikipedia.org/wiki/Expansion_des_Universums#/media/File:Expansion_des_Universums.png
   * Rotation von Galaxien von Ingo Berg: https://de.wikipedia.org/wiki/Datei:Galaxy_rotation_under_the_influence_of_dark_matter.ogv
   * Rotationsgeschwindigkeit von Galaxien von Johannes Schneider: https://de.wikipedia.org/wiki/Dunkle_Materie#/media/File:Dark_matter_diagram.svg
+  * Bullet Cluster: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/1e0657_scale.jpg/1280px-1e0657_scale.jpg
   * Prinzip Einsteinringe: https://upload.wikimedia.org/wikipedia/commons/9/98/Einstein-Ring-schem_de.png
   * Einstein Ringe
     * https://de.wikipedia.org/wiki/Datei:Einstein_ring_SDSS_J120540.43_491029.3.jpg
